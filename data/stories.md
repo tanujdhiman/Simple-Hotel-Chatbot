@@ -33,6 +33,7 @@
 ## book room path
 * book_room
   - utter_user_want_to_book_room
+  - utter_number_of_rooms
   
 ## clean room path
 * clean_room
