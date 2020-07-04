@@ -112,3 +112,9 @@
 - Please tell me your breakfast timings.
 - Specify your breakfast timings.
 - Tell your breakfast timings.
+
+## intent:restraurant_timings
+- what are your restraurant timings?
+- What are the timings of your restaurant?
+- what is the closing time of restraurant?
+- Please specify the timings of restraurant.
