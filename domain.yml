@@ -23,13 +23,16 @@ intents:
 entities : 
 - no_of_rooms
 - no_of_hours
+- type_of_room
 
 slots:
  no_of_rooms :
    Type : text
  no_of_hours : 
    Type : text
-
+ type_of_room :
+   Type : text
+   
 responses:
   utter_greet:
   - text: "Hey! How are you?"
