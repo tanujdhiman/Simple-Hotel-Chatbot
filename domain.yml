@@ -17,6 +17,7 @@ intents:
   - having_restraurant
   - what_is_the_breakfast_availability
   - what_is_the_breakfast_timings 
+  - restraurant_timings
 
 entities : 
 - no_of_rooms
